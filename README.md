@@ -1,2 +1,1 @@
-# BLUE_Edtech_MOD_4_Projeto2_Tweet
-[Postgres+ NestJS + TypeScript + Prisma + JWT] Rede Social
+# Projeto02-MOD4-BKE
