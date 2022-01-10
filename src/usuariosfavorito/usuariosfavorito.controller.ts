@@ -5,6 +5,7 @@ import { UpdateUsuariosfavoritoDto } from './dto/update-usuariosfavorito.dto';
 
 @Controller('usuariosfavorito')
 export class UsuariosfavoritoController {
+  // eslint-disable-next-line prettier/prettier
   constructor(private readonly usuariosfavoritoService: UsuariosfavoritoService) {}
 
   @Post()

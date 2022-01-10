@@ -4,6 +4,6 @@ import { UsuariosfavoritoController } from './usuariosfavorito.controller';
 
 @Module({
   controllers: [UsuariosfavoritoController],
-  providers: [UsuariosfavoritoService]
+  providers: [UsuariosfavoritoService],
 })
 export class UsuariosfavoritoModule {}
